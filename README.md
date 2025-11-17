@@ -58,16 +58,27 @@ endmodule
 
 ```
 **Logic symbol & Truthtable:**
+
+
+
 <img width="805" height="442" alt="image" src="https://github.com/user-attachments/assets/9f87e18e-6a17-4efa-8be6-100dc1a3293c" />
+
+
+
 <img width="797" height="421" alt="image" src="https://github.com/user-attachments/assets/5bd233f7-9ed4-4248-a490-8273563ed85c" />
 
 
 
 **RTL realization**
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33cc38f7-4a39-4c90-adca-f8819e87e0b1" />
 
 **Output:**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66f020c4-7b23-48e9-b1fa-894ba91c1d38" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cbd140c-18e9-42df-841b-89ad96d10b7d" />
+
 
 
 
